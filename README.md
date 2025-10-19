@@ -1,4 +1,24 @@
-## Hi there 👋
+# Привет, меня зовут Александр 👋
+💻 Frontend-разработчик (JavaScript, TypeScript) 
+
+## ✨ О себе: 
+* Я – разработчик, увлеченный созданием современных и красивых графических интерфейсов
+* Люблю помогать малому и среднему бизнесу в создании удобных приложений.
+* Всегда пишу чистый и понятный код
+
+---
+
+## 🛠 Технологии, которые я использую 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,git)](https://skillicons.dev)
+
+---
+
+## 💬 Как связаться со мной 
+* <a href="mailto:sacha.grankin.04@mail.ru">sacha.grankin.04@mail.ru</a>
+* <a href="https://t.me/popugaucheg">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
 
 <!--
 **AlexanderGrankin/AlexanderGrankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
