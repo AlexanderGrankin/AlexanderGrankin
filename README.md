@@ -19,7 +19,6 @@
 * [Оно Тебе Надо](https://github.com/AlexanderGrankin/ono-tebe-nado-fd)
 * [Посмотри В Окно](https://github.com/AlexanderGrankin/posmotri-v-okno-fd)
 * [Сложно Сосредоточиться](https://github.com/AlexanderGrankin/slozhno-sosredotochitsya-fd)
-* [Умная Таблица](https://github.com/AlexanderGrankin/smart-table)
 
 ---
 
